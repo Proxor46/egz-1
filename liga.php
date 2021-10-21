@@ -26,17 +26,12 @@
             <img src="zad2.png" alt="piłka">
             <p>Autor: Daniel Bastek</p>
         </div>
-        <div id="prawy">
-            <ol>
-               
-            </ol>
-        </div>
+        <div id="prawy"></div>
     </div>
     <main>
         <h3>Liga mistrzów</h3>
     </main>
-    <div id="liga">
-    </div>
+    <div id="liga"></div>
    </body>
 
 </html>
